@@ -1,0 +1,33 @@
+class AppStrings {
+  static const String noRouteFound = "No Route Found";
+  static const String register = "Register";
+  static const String male = "Male";
+  static const String female = "Female";
+  static const String next = "Next";
+  static const String prev = "Previous";
+  static const String submit = "Submit";
+  static const String fName = "First Name";
+  static const String lName = "Last Name";
+  static const String pNum = "Phone Number";
+  static const String email = "Email";
+  static const String gen = "Gender";
+  static const String pwd = "Password";
+  static const String cPwd = "Confirm Password";
+  static const String star = "*";
+  static const String yInfo = "Your Info";
+  static const String eInfo = "Educational Info";
+  static const String education = "Education";
+  static const String yop = "Year of Passing";
+  static const String grade = "Grade";
+  static const String pInfo = "Professional Info";
+  static const String exp = "Experience";
+  static const String desgn = "Designation";
+  static const String domain = "Domain";
+  static const String yAdd = "Your Address";
+  static const String address = "Address";
+  static const String landmark = "Landmark";
+  static const String city = "City";
+  static const String syState = "Select your state";
+  static const String req = "Required";
+  static const String pCode = 'Pin Code';
+}
